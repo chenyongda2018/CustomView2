@@ -51,5 +51,6 @@ public class MainActivity extends AppCompatActivity {
         mActivities.add(new ActivityItem("example.chen.com.customview.activity.CustomView1Activity", "Canvas Rotate"));
         mActivities.add(new ActivityItem("example.chen.com.customview.activity.CustomView2Activity", "Pie chart"));
         mActivities.add(new ActivityItem("example.chen.com.customview.activity.CustomView3Activity", "Canvas Scale"));
+        mActivities.add(new ActivityItem("example.chen.com.customview.activity.CustomView4Activity", "Wheel"));
     }
 }
