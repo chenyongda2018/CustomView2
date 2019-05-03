@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity.CustomView1Activity" />
-        <activity android:name=".activity.CustomView2Activity"></activity>
+        <activity android:name=".activity.CustomView2Activity" />
+        <activity android:name=".activity.CustomView3Activity"></activity>
     </application>
 
 </manifest>

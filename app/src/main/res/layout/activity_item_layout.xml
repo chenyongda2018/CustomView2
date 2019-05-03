@@ -7,7 +7,7 @@
         android:id="@+id/activity_item_tv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:text="Activity"
         android:layout_gravity="center_vertical"/>
 </LinearLayout>
